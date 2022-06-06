@@ -7,7 +7,7 @@ const app = express()
 app.get('/', (req, res) => {
 console.log('Petición recibida')
 
-res.send('Hola mundo con NODEMONSABCDEF¡')
+res.send('Hola mundo con NODEMONSABCDEFG¡')
 })
 
 const PORT = process.env.PORT || 4000
