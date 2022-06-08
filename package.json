@@ -1,7 +1,7 @@
 {
-  "name": "app-envios",
+  "name": "EnviosDigitales",
   "version": "1.0.0",
-  "description": "Aplicación Envios Navision",
+  "description": "Aplicación Envios",
   "main": "app.js",
   "author": "Jesus Alastuey",
   "license": "MIT",
