@@ -1,7 +1,7 @@
 {
-  "name": "EnviosDigitales",
+  "name": "stock-app",
   "version": "1.0.0",
-  "description": "Aplicación Envios",
+  "description": "Aplicación Productos",
   "main": "app.js",
   "author": "Jesus Alastuey",
   "license": "MIT",
